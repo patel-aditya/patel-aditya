@@ -47,7 +47,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/aditya-patel" target="_blank">
+  <a href="https://linkedin.com/in/aditya-patel-572496335" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/aditya_1302" target="_blank">
