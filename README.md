@@ -39,7 +39,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=patel-aditya&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=patel-aditya&theme=dark" />
 </div>
 
 ---
